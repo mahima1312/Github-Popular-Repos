@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-container {
+  margin-left: 10px;
+  height: 30px;
+}
+
+.btn {
+  background-color: transparent;
+  color: #0f172a;
+  font-weight: bold;
+  font-size: 20px;
+  border-style: none;
+
+}
+
+.active-btn {
+  background-color: transparent;
+  color: #0284c7;
+  font-weight: bold;
+  font-size: 20px;
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  
+}
